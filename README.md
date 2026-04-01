@@ -24,11 +24,11 @@ Systems-focused developer building modular simulations, data-driven systems, and
   <img src ="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" />
 </p>
 
-<br>
+<!-- <br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbodirsky&layout=compact" />
-</p>
+</p> -->
 
 ---
 
